@@ -1,1 +1,7 @@
-results/
+results/.venv/
+venv/
+__pycache__/
+*.py[cod]
+log.html
+report.html
+output.xml
